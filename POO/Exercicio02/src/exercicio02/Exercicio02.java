@@ -12,7 +12,7 @@ public class Exercicio02 {
     public static void main(String[] args) {
         int opcao = 0;
         Scanner ler = new Scanner(System.in);
-        ContaCorrente titular = new ContaCorrente(123456789, "Saulo", 100.0f);
+        ContaCorrente titular = new ContaCorrente(123456789, "Saulo", 0.0f);
         
         titular.ImprimirDados();
         
