@@ -5,7 +5,7 @@ a. abastecerPorValor; //método onde é informado o valor a ser abastecido e mos
 litros que foi colocada no veículo
 b. abastecerPorLitro; // método onde é informado a quantidade em litros de combustível e mostra o
 valor a ser pago pelo cliente.
-c. alterarCombustivel; //altera o tipo do combustível.
+c. alterarValor; //altera o valor do litro do combustível.
 d. alterarQuantidadeCombustivel; //altera a quantidade de combustível restante na bomba.
 
 Crie uma classe que contenha um método main para testar sua classe BombaCombustível
